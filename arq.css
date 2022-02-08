@@ -1,338 +1,360 @@
 div{
     border:1px solid red;
     background: #741212;
-    padding: 12px;    
+     
+}
+h1{
+    text-align: center;
+    
 }
 p {
-    text-align: center;
-    font-size: small;
-    line-height: 20px;
-    padding-bottom: 60px;
-    padding-left: 40px;
-    padding-right: 40px;
-    margin-top: 150px;
-    margin-left: 150px;
-    
-    
+    text-align: center center;
+    font-size: 10px;
+    padding-left: 80px;
+    padding-right: 60px;
+    padding-top: 60px;
     
     
     
 }
 h2{
-    text-align: center ;
-    border: 3px solid;
-    background: red;
-    margin: 1px;
-    border-width:1px;
-    margin-right: 180px;
-    margin-left: 180px;
+    text-align: center;
+    border: 1px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 10px;
+    margin-top: 30px;
 }
 div.riobranco{
 
     background-image: url(riobranco.png);
-    width: 500px;
-    height:500px;
+    border: 2px dotted black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     border-radius: 50px 0px 0px 0px;
-    background-position: left;
-    background-size: 150px;
-    border: 3px solid black;
-    text-align:right;
-    background-color: blueviolet;
-    margin-bottom: 20px;    
+    background-color: red;
+    background-position: left;   
+    margin:5px;
 }
 div.maceio{
-    background-image: url(maceio.png);
-    width:500px;
-    height:500px;
+    background-image: url(maceio.png);    
+    height: 250px;
+    width: 400px;
+    display: inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
     border: 3px dashed blue;
-    border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: green;
+    margin:5px;
 }
 div.macapa{
     background-image: url(macapa.png);
-    width:500px;
-    height:500px;
+    height: 250px;
+    width: 400px;
+    display: inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
-    background-size: 150px;
     border: 3px solid red;
-    border-radius: 0px 0px 50px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px;
-    background-size: 140px; 
-    
+    border-radius: 0px 50px 0px 0px;
+    background-color: blue;
+    margin:5px;
 }
 div.manaus{
     background-image: url(manaus.png);
-    width:500px;
-    height:500px;
+    height: 250px;
+    width: 400px;
+    display: inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid green;
-    border-radius: 50px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    border: 3px double green;
+    background-color: red;
+    padding-top: 8px;
+    margin:5px;
 }
 div.salvador{
     background-image: url(salvador.png);
-    width:500px;
-    height:500px;
+    height: 250px;
+    width: 400px;
+    display: inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
-    border: 3px solid blue;
-    border-radius: 50px 0px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: green;
+    border: 3px groove black;
+    padding-bottom: 10px;
+    margin:5px;
 }
 div.fortaleza{
     background-image: url(fortaleza.png);
-    width:500px;
-    height:500px;
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: aqua;
     background-position: left;
-    border: 3px solid yellow;
-    border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    border: 3px ridge yellow;
+    background-color: blue;
+    padding-top: 10px;
+    margin:5px;
 }
 div.vitoria{
     background-image: url(vitoria.png);
-    width:500px;
-    height:500px;
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid yellowgreen;
     border-radius: 0px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: red;
+    border: 3px inset black;
+    margin:5px;
 }
 div.goiania{
     background-image: url(goiania.png);
-    width:500px;
-    height:500px;
+
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: aqua;
     background-position: left;
-    background-size: 150px;
-    border: 3px dashed cyan;
-    border-radius: 50px 0px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: green;
+    margin:5px;
 }
 div.saoluis{
     background-image: url(saoluis.png);
-    width:500px;
-    height:500px;
+    border: 2px dashed black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
-    background-size: 100px;
-    border: 3px solid pink;
-    border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    border-radius: 0px 0px 50px 0px;
+    background-color: blue;
+    margin:5px;
 }
 div.cuiaba{
     background-image: url(cuiaba.png);
-    width:500px;
-    height:500px;
+    border: 2px inset black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    border-radius: 50px 0px 0px 0px;
+    background-color: red;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid purple;
-    border-radius: 0px 0px 50px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.campogrande{
     background-image: url(campogrande.png);
-    width:500px;
-    height:500px;
+    border: 2px dotted black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: green;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid #741212;
-    border-radius: 0px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.belohorizonte{
     background-image: url(belohorizonte.png);
-    width:500px;
-    height:500px;
+    border: 2px double black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    border-radius: 0px 50px 0px 0px;
+    background-color: blue;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(23, 122, 36);
-    border-radius: 50px 0px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.belem{
     background-image: url(belem.png);
-    width:500px;
-    height:500px;
+    border: 2px ridge black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: red;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(126, 16, 102);
-    border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.joaopessoa{
     background-image: url(joaopessoa.png);
-    width:500px;
-    height:500px;
+    border: 2px groove black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: green;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(63, 88, 57);
-    border-radius: 0px 0px 50px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.curitiba{
     background-image: url(curitiba.png);
-    width:500px;
-    height:500px;
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: blue;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(38, 54, 124);
-    border-radius: 0px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.recife{
     background-image: url(recife.png);
-    width:500px;
-    height:500px;
+    border: 2px outset black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: aqua;
     background-position: left;
-    background-size: 150px;
-    border: 3px dashed rgb(112, 125, 134);
-    border-radius: 50px 0px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    border-radius: 0px 0px 0px 50px;
+    background-color: red;
+    margin:5px;
 }
 div.teresina{
     background-image: url(teresina.png);
-    width:500px;
-    height:500px;
+    border: 2px dotted black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(32, 4, 29);
-    border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: green;
+    margin:5px;
 }
 div.riodejaneiro{
     background-image: url(riodejaneiro.png);
-    width:500px;
-    height:500px;
+    border: 2px double black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
-    background-position: left;
-    border: 3px dashed rgb(182, 83, 83);
+    background-size: 60px;
     border-radius: 0px 0px 50px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: blue;
+    background-position: left;
+    margin:5px;
 }
 div.natal{
     background-image: url(natal.png);
-    width:500px;
-    height:500px;
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    border-radius: 50px 0px 0px 0px;
+    background-color: red;
     background-position: left;
-    border: 3px solid rgb(76, 182, 94);
-    border-radius: 0px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.portoalegre{
     background-image: url(portoalegre.png);
-    width:500px;
-    height:500px;
+    border: 2px dotted black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: green;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(90, 40, 40);
-    border-radius: 50px 0px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin:5px;
 }
 div.portovelho{
     background-image: url(portovelho.png);
-    width:500px;
-    height:500px;
+    border: 2px outset black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
-    background-position: left;
-    border: 3px solid rgb(45, 104, 192);
+    background-size: 60px;
     border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    background-color: blue;
+    background-position: left;
+    margin:5px;
 }
 div.boavista{
     background-image: url(boavista.png);
-    width:500px;
-    height:500px;
+    border: 2px double black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: red;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(112, 46, 55);
-    border-radius: 0px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin: 5px;
 }
 div.florianopolis{
     background-image: url(florianopolis.png);
-    width:500px;
-    height:500px;
+    border: 2px dotted black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: green;
     background-position: left;
-    border: 3px dashed rgb(94, 166, 172);
-    border-radius: 50px 0px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin: 5px;
 }
 div.saopaulo{
     background-image: url(saopaulo.png);
-    width:500px;
-    height:500px;
+    border: 2px groove black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: blue;
     background-position: left;
-    background-size: 150px;
-    border: 3px solid rgb(115, 84, 155);
-    border-radius: 0px 50px 0px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin: 5px;
 }
 div.aracaju{
     background-image: url(aracaju.png);
-    width:500px;
-    height:500px;
+    border: 2px ridge black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: red;
+    border-radius: 50px 0px 0px 0px;
     background-position: left;
-    background-size: 200px;
-    border: 3px solid rgb(105, 199, 144);
-    border-radius: 0px 0px 50px 0px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin: 5px;
 }
 div.palmas{
     background-image: url(palmas.png);
-    width:500px;
-    height:500px;
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    display:inline-block;
     background-repeat: no-repeat;
+    background-size: 60px;
+    background-color: green;
     background-position: left;
-    background-size: 200px;
-    border: 3px dashed rgb(207, 51, 147);
-    border-radius: 0px 0px 0px 50px;
-    background-color: blueviolet;
-    margin-bottom: 20px; 
+    margin: 5px;
 }
